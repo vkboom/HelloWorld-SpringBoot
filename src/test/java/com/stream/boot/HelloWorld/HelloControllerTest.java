@@ -1,8 +1,5 @@
 package com.stream.boot.HelloWorld;
 
-import org.junit.Assert;
-import org.junit.Test;
-
 import static org.hamcrest.Matchers.equalTo;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
