@@ -1,2 +1,2 @@
 # HelloWorld-SpringBoot
-This project for starter about Spring Boot Framework.
+This project sample about Spring Boot Framework.
